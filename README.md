@@ -18,6 +18,16 @@
 
 - 📫 How to reach me **ypandya.136@gmail.com**
 
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```text
+Web 3.0
+```
+
+<!--END_SECTION:waka-->
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/yashpandya136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashpandya136" height="30" width="40" /></a>
