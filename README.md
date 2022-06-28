@@ -23,10 +23,5 @@
 <a href="https://instagram.com/yashpandya136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashpandya136" height="30" width="40" /></a>
 </p>
 <hr>
-<h2 align="center">Statastics:</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpandya2&show_icons=true&locale=en&layout=compact" alt="yashpandya2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpandya2&show_icons=true&locale=en" alt="yashpandya2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpandya2&" alt="yashpandya2" /></p>
