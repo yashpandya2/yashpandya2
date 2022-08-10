@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web 3.0 projects**
 
-- 👨‍💻 All of my projects are available at [https://yashpandya136.github.io/portfolio/](https://yashpandya136.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at https://yashpandya.netlify.app
 
 - 💬 Ask me about **MERN Stack**
 
